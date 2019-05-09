@@ -1,0 +1,28 @@
+writing 5 into (1,7)
+you can not put 5 there!
+5 already exists in the row or coloumn
+5 already exists in the 3x3 grid
+switched to the keypad mode!
+south
+east
+east
+south
+writing 3 into (2,2)
+you can not put 3 there!
+3 already exists in the 3x3 grid
+writing 8 into (2,2)
+done!
+south
+writing 4 into (3,2)
+done!
+ended keypad mode!
+0 2 9 3 0 0 0 5 0 
+0 3 0 9 4 0 2 0 0 
+5 0 8 0 0 0 0 6 0 
+1 0 4 6 2 0 0 0 0 
+9 0 2 0 0 0 6 0 7 
+0 0 0 0 5 3 0 0 9 
+0 8 0 0 0 0 0 0 1 
+0 0 5 0 3 2 0 8 0 
+0 1 0 0 0 8 5 7 0 
+------------------

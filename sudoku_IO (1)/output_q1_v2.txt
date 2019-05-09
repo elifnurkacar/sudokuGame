@@ -1,0 +1,18 @@
+writing 7 into (0,2)
+done!
+writing 9 into (1,3)
+you can not put 9 there!
+9 already exists in the row or coloumn
+9 already exists in the 3x3 grid
+writing 3 into (1,3)
+done!
+3 6 7 5 1 9 8 4 2 
+8 4 2 3 7 6 9 1 5 
+5 9 1 4 8 2 7 6 3 
+1 8 5 9 0 4 3 7 6 
+9 3 6 7 5 0 2 8 4 
+2 7 4 6 3 8 5 9 1 
+6 2 3 8 4 7 0 5 9 
+4 5 8 1 9 3 6 2 0 
+0 1 9 2 6 5 4 3 8 
+------------------
